@@ -16,21 +16,6 @@
 - **APIs**: OpenAI GPT, Hugging Face
 - **Tools**: VSCode, Git
 
-## 📂 Project Structure
-```
-/DefinitionGPT
-├── /src
-│   ├── main.py              # Main application entry point
-│   ├── /utils               # Utility functions
-│   ├── /models              # AI models and configurations
-├── /static                  # Static files (CSS, JS, images)
-├── /templates               # HTML templates (if applicable)
-├── /tests                   # Unit tests
-├── requirements.txt         # Python dependencies
-├── README.md                # Project documentation
-├── .env                     # Environment variables
-└── LICENSE                  # License information
-```
 
 ## 🔧 Setup & Installation
 1. **Clone the repository**:
